@@ -1,0 +1,3 @@
+- [why babe](https://substrate.stackexchange.com/questions/3954/npos-with-aura-no-planned-era)
+- [[Tutorial] Deploy a Substrate NPoS network in 3 minutes](https://medium.com/oak-blockchain/tutorial-deploy-a-substrate-npos-network-in-3-minutes-fab9de5c4c2b)
+- [凯超老师的如何切换pos共识](https://zhuanlan.zhihu.com/p/161293660)
